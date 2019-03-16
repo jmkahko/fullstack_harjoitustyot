@@ -1,6 +1,0 @@
-.
-|-- README.md
-`-- laskarit
-    `-- viikko1
-
-2 directories, 1 file

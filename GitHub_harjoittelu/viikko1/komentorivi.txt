@@ -1,0 +1,8 @@
+.
+|-- GitHub_harjoittelu
+|   `-- viikko1
+|       |-- gitlog.txt
+|       `-- komentorivi.txt
+`-- README.md
+
+2 directories, 3 files
