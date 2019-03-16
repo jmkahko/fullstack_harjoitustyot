@@ -1,5 +1,8 @@
-# Testi harjoittelua
+# Fullstack, GitHub harjoittelu
 
-Harjoittelua GitHubin käyttöä
+# Tehtävät
 
-Tämä on **ensimmäinen** readme *teksti* täällä.
+# Ensimmäinen
+
+[gitlog.txt](https://github.com/jmkahko/fullstack_harjoitustyot/blob/master/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](https://github.com/jmkahko/fullstack_harjoitustyot/blob/master/laskarit/viikko1/komentorivi.txt)
