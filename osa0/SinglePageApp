@@ -1,5 +1,0 @@
-title Sivun lataus Sigle Page App
-note left of Selain: Käyttäjä menee sivulle
-Selain->Palvelin: Lähettää normaalin HTTP kutsun
-Palvelin->Selain: Lähettää spa.js JavaScript tiedoston
-note left of Selain: Käsittelee JavaScript tiedoston ja näyttää

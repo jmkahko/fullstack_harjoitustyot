@@ -1,0 +1,6 @@
+title Uusi muistiinpano Single Page App
+
+note left of Selain: Käyttäjä syöttää halutun tekstin ja painaa Save nappia
+Selain->Palvelin: Lähettää new_note_spa POST komennon
+Palvelin->Selain: Vastaa statuskoodin 201 Created
+note left of Selain: Selain pysyy samalla sivulla ja muita pyyntöjä ei suoriteta

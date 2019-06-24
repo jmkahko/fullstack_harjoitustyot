@@ -1,0 +1,8 @@
+title Sivun lataus Sigle Page App
+note left of Selain: Käyttäjä menee sivulle
+Selain->Palvelin: Lähettää HTTP GET kutsun notes
+Palvelin->Selain: Vastaanottaa notes tiedoston
+Palvelin->Selain: Vastaanottaa spa.js tiedoston
+Palvelin->Selain: Vastaanottaa main.css tiedoston
+Palvelin->Selain: Vastaanottaa data.jsontiedoston
+note left of Selain: Käsittelee JavaScript tiedoston ja näyttää

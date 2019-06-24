@@ -1,0 +1,13 @@
+title Uusi muistiinpano, sivu latautunut
+note left of Selain: Käyttäjä syöttää halutun tekstin ja painaa Save nappia
+Selain->Palvelin: Lähettää POST new_note komennon
+Palvelin->Selain: Lähettää statuskoodin 302, jolla palvelin pyytää päivittämään selaimen sivun
+Selain->Palvelin: Lähettää HTTP GET notes
+Palvelin->Selain: Vastaanottaa HTTP koodia
+Selain->Palvelin: Lähettää HTTP GET main.css
+Palvelin->Selain: Vastaanottaa main.css
+Selain->Palvelin: Lähettää HTTP GET main.js
+Palvelin->Selain: Vastaanottaa main.js
+Selain->Palvelin: Lähettää HTTP GET data.json
+Palvelin->Selain: Vastaanottaa data.json
+note left of Selain: Selaimen sivu on päivittynyt uudelleen tallennuksen jälkeen

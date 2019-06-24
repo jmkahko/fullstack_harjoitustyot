@@ -1,5 +1,0 @@
-title Sivu lataunut palvelimelta
-note left of Selain: Käyttäjä syöttää halutun tekstin ja painaa Save nappia
-Selain->Palvelin: Lähettää HTTP POST metodin new_note
-Palvelin->Selain: Lähettää statuskoodin 302, jolla palvelin pyytää päivittämään selaimen sivun
-note left of Selain: Selain päivittää uudelleen sivun
