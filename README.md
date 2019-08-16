@@ -10,4 +10,6 @@
 
 
 ## Tehdyt tehtävät
-Osa0
+### Osa0
+### Osa1
+Kaikki muut tehty paitsi 1.10, 1.13 ja 1.14
