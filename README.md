@@ -1,5 +1,5 @@
 # Fullstack kurssin tehtävät
-(https://https://fullstackopen.com/)
+https://https://fullstackopen.com/
 
 ## Tehdyt tehtävät
 ### Osa0
